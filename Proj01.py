@@ -10,6 +10,9 @@ w = 7*x
 t = 1*x
 v = 9*x
 
+a = np.array([4,5,6])
+b = 2*a
+
 plt.figure()
 plt.plot(x,y)
 plt.plot(x,z)
