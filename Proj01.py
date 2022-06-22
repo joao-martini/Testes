@@ -12,6 +12,8 @@ v = 9*x
 
 a = np.array([4,5,6])
 b = 2*a
+c = np.array([4,5,6])
+d = 3*c
 
 plt.figure()
 plt.plot(x,y)
