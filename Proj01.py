@@ -7,6 +7,7 @@ x = np.array([1,2,3])
 y = 2*x
 z = 3*x
 w = 7*x
+v = 9*x
 
 plt.figure()
 plt.plot(x,y)
